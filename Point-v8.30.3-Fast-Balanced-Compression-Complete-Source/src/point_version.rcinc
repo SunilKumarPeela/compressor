@@ -1,0 +1,6 @@
+// Generated from VERSION by scripts/sync_version.ps1.
+#define POINT_VERSION_MAJOR 8
+#define POINT_VERSION_MINOR 30
+#define POINT_VERSION_PATCH 3
+#define POINT_VERSION_BUILD 0
+#define POINT_VERSION_STRING "8.30.3"
